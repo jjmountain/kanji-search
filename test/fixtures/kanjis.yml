@@ -1,0 +1,51 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  character: MyString
+  koohii1: MyText
+  koohii2: MyText
+  onyomi: MyString
+  kunyomi: MyString
+  nanori: MyString
+  english: MyString
+  examples: MyText
+  jlpt: 1
+  components: MyText
+  kanji_strokes: 1
+  kanji_radical: MyString
+  radical_number: 1
+  radical_strokes: 1
+  radical_reading: MyString
+  classification: MyString
+  keyword: MyString
+  grade: MyString
+  frequency: MyString
+  type: 
+  jouyou: 1
+  traditional: MyString
+  rtk: 1
+
+two:
+  character: MyString
+  koohii1: MyText
+  koohii2: MyText
+  onyomi: MyString
+  kunyomi: MyString
+  nanori: MyString
+  english: MyString
+  examples: MyText
+  jlpt: 1
+  components: MyText
+  kanji_strokes: 1
+  kanji_radical: MyString
+  radical_number: 1
+  radical_strokes: 1
+  radical_reading: MyString
+  classification: MyString
+  keyword: MyString
+  grade: MyString
+  frequency: MyString
+  type: 
+  jouyou: 1
+  traditional: MyString
+  rtk: 1
